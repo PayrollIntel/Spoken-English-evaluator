@@ -1,0 +1,7 @@
+{
+  "name": "Spoken English Evaluator",
+  "description": "An AI-powered tool to evaluate your spoken English. Get instant feedback on your grammar, vocabulary, pronunciation, and fluency to help you improve your speaking skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
